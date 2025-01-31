@@ -68,17 +68,17 @@ Agradeço à **Generation Brasil** por ter proporcionado o conhecimento e as hab
 ## Como Executar o Projeto
 
 1. Clone o repositório:
-   ```bash
+  ```bash
    git clone https://github.com/FehMacedo10/projeto_mercado-do-povo
-
+  ```
 2. Navegue até o diretório do projeto:
   ```bash
-  cd mercadodopovo
+   cd mercadodopovo
   ```
 3. Execute o projeto:
   ```bash
-  mvn spring-boot:run
-```
+   mvn spring-boot:run
+  ```
 4. Acesse a API através do Swagger UI:
 URL: http://localhost:8080/swagger-ui/
 
